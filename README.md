@@ -1,7 +1,7 @@
 ## Respiratory Disease Dashboard
 Power BI dashboard analyzing respiratory disease patterns, patient distribution, and key healthcare KPIs.
 ### Preview
-![Dashboard](Resperatory Disease .jpg)
+![Dashboard](Respiratory%20Disease%20.jpg)
 
 
 ---
@@ -18,4 +18,4 @@ This Power BI dashboard explores relationships between mental health indicators 
 
 ### Preview
 
-![Dashboard](Depression-Anxiety-Dashboard.jpg)
+![Dashboard](Depression%20and%20Anxiety%20.jpg)
