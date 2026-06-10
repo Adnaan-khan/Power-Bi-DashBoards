@@ -32,13 +32,31 @@ This Power BI dashboard analyzes respiratory disease trends and patient outcomes
 
 ## Depression & Anxiety Analysis Dashboard
 
-This Power BI dashboard explores relationships between mental health indicators (PHQ score, GAD score) and physical wellness factors such as BMI, sleepiness, gender, and age.
+This Power BI dashboard explores relationships between mental health indicators and physical wellness factors to understand patterns associated with depression and anxiety severity.
+The analysis combines PHQ (Patient Health Questionnaire), GAD (Generalized Anxiety Disorder), BMI, sleep behavior, age, and demographic variables to generate healthcare insights.
+
+### Project Objectives
+- Analyze depression severity using PHQ scores
+- Evaluate anxiety levels using GAD scores
+- Explore relationships between BMI and mental health
+- Study sleepiness impact on anxiety outcomes
+- Identify demographic trends across age and gender
+
+### Dashboard Features
+- PHQ Score KPI Visualization
+- Anxiety Severity vs BMI Comparison
+- Sleepiness vs GAD Score Analysis
+- Age Distribution Across BMI Categories
+- Gender-Based Mental Health Insights
+- Interactive Healthcare Dashboard Design
 
 ### Key Insights
-- Average PHQ score indicates mild depressive symptoms
-- Anxiety severity shows correlation with higher BMI
-- Sleepiness is strongly associated with anxiety levels
-- Majority of participants fall within overweight BMI category
+- Average PHQ score: **7.12**, indicating mild depressive symptoms
+- Moderate anxiety group demonstrated higher BMI values
+- Sleepiness showed association with elevated anxiety levels
+- Majority of participants were concentrated within overweight BMI categories
+- Female participants displayed slightly lower average BMI compared to males
+- Mental and physical health indicators showed measurable interaction patterns
 
 ### Preview
 
